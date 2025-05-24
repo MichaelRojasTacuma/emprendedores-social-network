@@ -1,12 +1,3 @@
-Paso 2: Configurar README Profesional
-
-Editar README:
-
-En tu repositorio recién creado, haz clic en el lápiz ✏️ al lado de README.md
-BORRA todo el contenido actual
-COPIA Y PEGA este contenido:
-
-
 
 markdown# 🚀 Emprendedores Social Network
 
