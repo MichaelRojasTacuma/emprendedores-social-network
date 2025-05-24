@@ -13,7 +13,7 @@ const Home = () => {
           
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
             Emprendedores
-            <span className="text-primary-500"> Social Network</span>
+            <span className="text-primary-500"> Social Networks</span>
           </h1>
           
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
